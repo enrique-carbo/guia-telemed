@@ -2,6 +2,7 @@
   "name": "guia-telemedicina",
   "private": true,
   "version": "0.0.1",
+  "homepage": "https://enrique-carbo.github.io/guia-telemed/",
   "type": "module",
   "scripts": {
     "dev": "vite",
